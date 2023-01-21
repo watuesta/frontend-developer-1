@@ -11,3 +11,5 @@ var persona = {
     nombre : "William",
     edad: 30
 }
+
+persona;
